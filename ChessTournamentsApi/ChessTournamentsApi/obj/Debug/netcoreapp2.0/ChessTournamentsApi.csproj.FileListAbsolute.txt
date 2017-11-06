@@ -1,0 +1,11 @@
+c:\users\gytis\documents\visual studio 2017\Projects\ChessTournamentsApi\ChessTournamentsApi\bin\Debug\netcoreapp2.0\ChessTournamentsApi.deps.json
+c:\users\gytis\documents\visual studio 2017\Projects\ChessTournamentsApi\ChessTournamentsApi\bin\Debug\netcoreapp2.0\ChessTournamentsApi.runtimeconfig.json
+c:\users\gytis\documents\visual studio 2017\Projects\ChessTournamentsApi\ChessTournamentsApi\bin\Debug\netcoreapp2.0\ChessTournamentsApi.runtimeconfig.dev.json
+c:\users\gytis\documents\visual studio 2017\Projects\ChessTournamentsApi\ChessTournamentsApi\bin\Debug\netcoreapp2.0\ChessTournamentsApi.dll
+c:\users\gytis\documents\visual studio 2017\Projects\ChessTournamentsApi\ChessTournamentsApi\obj\Debug\netcoreapp2.0\ChessTournamentsApi.csprojResolveAssemblyReference.cache
+c:\users\gytis\documents\visual studio 2017\Projects\ChessTournamentsApi\ChessTournamentsApi\obj\Debug\netcoreapp2.0\ChessTournamentsApi.csproj.CoreCompileInputs.cache
+c:\users\gytis\documents\visual studio 2017\Projects\ChessTournamentsApi\ChessTournamentsApi\obj\Debug\netcoreapp2.0\ChessTournamentsApi.AssemblyInfoInputs.cache
+c:\users\gytis\documents\visual studio 2017\Projects\ChessTournamentsApi\ChessTournamentsApi\obj\Debug\netcoreapp2.0\ChessTournamentsApi.AssemblyInfo.cs
+c:\users\gytis\documents\visual studio 2017\Projects\ChessTournamentsApi\ChessTournamentsApi\bin\Debug\netcoreapp2.0\ChessTournamentsApi.pdb
+c:\users\gytis\documents\visual studio 2017\Projects\ChessTournamentsApi\ChessTournamentsApi\obj\Debug\netcoreapp2.0\ChessTournamentsApi.dll
+c:\users\gytis\documents\visual studio 2017\Projects\ChessTournamentsApi\ChessTournamentsApi\obj\Debug\netcoreapp2.0\ChessTournamentsApi.pdb

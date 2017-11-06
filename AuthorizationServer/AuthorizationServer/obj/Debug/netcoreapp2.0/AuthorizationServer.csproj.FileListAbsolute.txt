@@ -1,0 +1,11 @@
+c:\users\gytis\documents\visual studio 2017\Projects\AuthorizationServer\AuthorizationServer\bin\Debug\netcoreapp2.0\AuthorizationServer.deps.json
+c:\users\gytis\documents\visual studio 2017\Projects\AuthorizationServer\AuthorizationServer\bin\Debug\netcoreapp2.0\AuthorizationServer.runtimeconfig.json
+c:\users\gytis\documents\visual studio 2017\Projects\AuthorizationServer\AuthorizationServer\bin\Debug\netcoreapp2.0\AuthorizationServer.runtimeconfig.dev.json
+c:\users\gytis\documents\visual studio 2017\Projects\AuthorizationServer\AuthorizationServer\bin\Debug\netcoreapp2.0\AuthorizationServer.dll
+c:\users\gytis\documents\visual studio 2017\Projects\AuthorizationServer\AuthorizationServer\obj\Debug\netcoreapp2.0\AuthorizationServer.csproj.CoreCompileInputs.cache
+c:\users\gytis\documents\visual studio 2017\Projects\AuthorizationServer\AuthorizationServer\obj\Debug\netcoreapp2.0\AuthorizationServer.AssemblyInfoInputs.cache
+c:\users\gytis\documents\visual studio 2017\Projects\AuthorizationServer\AuthorizationServer\obj\Debug\netcoreapp2.0\AuthorizationServer.AssemblyInfo.cs
+c:\users\gytis\documents\visual studio 2017\Projects\AuthorizationServer\AuthorizationServer\bin\Debug\netcoreapp2.0\AuthorizationServer.pdb
+c:\users\gytis\documents\visual studio 2017\Projects\AuthorizationServer\AuthorizationServer\obj\Debug\netcoreapp2.0\AuthorizationServer.dll
+c:\users\gytis\documents\visual studio 2017\Projects\AuthorizationServer\AuthorizationServer\obj\Debug\netcoreapp2.0\AuthorizationServer.pdb
+C:\Users\Gytis\documents\visual studio 2017\Projects\AuthorizationServer\AuthorizationServer\obj\Debug\netcoreapp2.0\AuthorizationServer.csprojResolveAssemblyReference.cache

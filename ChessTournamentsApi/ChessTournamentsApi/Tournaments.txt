@@ -1,0 +1,9 @@
+Kauno cempionatas,false,LTU
+Vilniaus cempionatas,true,LTU
+Baltic chess start,false,EST,
+European chess championship,true,GER
+Plunges cempionatas,true,LTU
+International Chess Festival Cracow XXI,false,POL
+Seimo taure,false,LTU
+Zemaitijos taure,true,LTU,
+World cup,false,AZE,
